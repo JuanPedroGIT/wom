@@ -1,0 +1,219 @@
+[
+ {
+  "IdProgramPromotion": 1,
+  "IdProgram": 1,
+  "Name": "Reto 1 Ariel",
+  "DateStart": "2020-10-23 00:00:00.000",
+  "DateEnd": "2020-10-29 00:00:00.000"
+ },
+ {
+  "IdProgramPromotion": 2,
+  "IdProgram": 1,
+  "Name": "Reto 2 Ariel",
+  "DateStart": "2020-10-30 00:00:00.000",
+  "DateEnd": "2020-11-06 00:00:00.000"
+ },
+ {
+  "IdProgramPromotion": 3,
+  "IdProgram": 1,
+  "Name": "Reto 3 Ariel",
+  "DateStart": "2020-11-06 00:00:00.000",
+  "DateEnd": "2020-11-13 00:00:00.000"
+ },
+ {
+  "IdProgramPromotion": 4,
+  "IdProgram": 1,
+  "Name": "Reto 4 Ariel",
+  "DateStart": "2020-11-13 00:00:00.000",
+  "DateEnd": "2020-11-21 00:00:00.000"
+ },
+ {
+  "IdProgramPromotion": 5,
+  "IdProgram": 2,
+  "Name": "Reto 1 Fairy",
+  "DateStart": "2020-11-30 00:00:00.000",
+  "DateEnd": "2020-12-07 00:00:00.000"
+ },
+ {
+  "IdProgramPromotion": 6,
+  "IdProgram": 2,
+  "Name": "Reto 2 Fairy",
+  "DateStart": "2020-12-09 00:00:00.000",
+  "DateEnd": "2020-12-15 00:00:00.000"
+ },
+ {
+  "IdProgramPromotion": 7,
+  "IdProgram": 2,
+  "Name": "Reto 3 Fairy",
+  "DateStart": "2020-12-15 00:00:00.000",
+  "DateEnd": "2020-12-22 00:00:00.000"
+ },
+ {
+  "IdProgramPromotion": 8,
+  "IdProgram": 2,
+  "Name": "Reto 4 Fairy",
+  "DateStart": "2020-12-22 00:00:00.000",
+  "DateEnd": "2020-12-29 00:00:00.000"
+ },
+ {
+  "IdProgramPromotion": 9,
+  "IdProgram": 3,
+  "Name": "Reto 1 Don Limpio",
+  "DateStart": "2021-05-25 00:00:00.000",
+  "DateEnd": "2021-06-01 23:59:00.000"
+ },
+ {
+  "IdProgramPromotion": 10,
+  "IdProgram": 3,
+  "Name": "Reto 2 Don Limpio",
+  "DateStart": "2021-06-03 00:00:00.000",
+  "DateEnd": "2021-06-09 23:59:00.000"
+ },
+ {
+  "IdProgramPromotion": 11,
+  "IdProgram": 3,
+  "Name": "Reto 3 Don Limpio",
+  "DateStart": "2021-06-10 00:00:00.000",
+  "DateEnd": "2021-06-16 23:59:00.000"
+ },
+ {
+  "IdProgramPromotion": 12,
+  "IdProgram": 3,
+  "Name": "Reto 4 Don Limpio",
+  "DateStart": "2021-06-17 00:00:00.000",
+  "DateEnd": "2021-06-23 23:59:00.000"
+ },
+ {
+  "IdProgramPromotion": 13,
+  "IdProgram": 4,
+  "Name": "Reto 1 Fairy 2021",
+  "DateStart": "2021-06-08 00:00:00.000",
+  "DateEnd": "2021-06-20 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 14,
+  "IdProgram": 4,
+  "Name": "Reto 2 Fairy 2021",
+  "DateStart": "2021-06-28 00:00:00.000",
+  "DateEnd": "2021-07-02 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 15,
+  "IdProgram": 4,
+  "Name": "Reto 3 Fairy 2021",
+  "DateStart": "2021-07-03 00:00:00.000",
+  "DateEnd": "2021-07-07 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 16,
+  "IdProgram": 4,
+  "Name": "Reto 4 Fairy 2021",
+  "DateStart": "2021-07-08 00:00:00.000",
+  "DateEnd": "2021-07-12 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 17,
+  "IdProgram": 5,
+  "Name": "Reto 1 Fairy 3",
+  "DateStart": "2021-10-19 00:00:00.000",
+  "DateEnd": "2021-10-25 23:59:00.000"
+ },
+ {
+  "IdProgramPromotion": 18,
+  "IdProgram": 5,
+  "Name": "Reto 2 Fairy 3",
+  "DateStart": "2021-10-27 00:00:00.000",
+  "DateEnd": "2021-11-02 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 19,
+  "IdProgram": 5,
+  "Name": "Reto 3 Fairy 3",
+  "DateStart": "2021-11-03 00:00:00.000",
+  "DateEnd": "2021-11-09 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 20,
+  "IdProgram": 5,
+  "Name": "Reto 4 Fairy 3",
+  "DateStart": "2021-11-08 00:00:00.000",
+  "DateEnd": "2021-11-15 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 21,
+  "IdProgram": 6,
+  "Name": "Reto 1 Ariel 2",
+  "DateStart": "2021-11-19 00:00:00.000",
+  "DateEnd": "2021-11-25 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 22,
+  "IdProgram": 6,
+  "Name": "Reto 2 Ariel 2",
+  "DateStart": "2021-12-01 00:00:00.000",
+  "DateEnd": "2021-12-08 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 23,
+  "IdProgram": 6,
+  "Name": "Reto 3 Ariel 2",
+  "DateStart": "2021-12-09 00:00:00.000",
+  "DateEnd": "2021-12-14 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 24,
+  "IdProgram": 7,
+  "Name": "Reto 1 ZzzQuil",
+  "DateStart": "2021-11-22 00:00:00.000",
+  "DateEnd": "2021-12-02 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 25,
+  "IdProgram": 7,
+  "Name": "Reto 2 ZzzQuil",
+  "DateStart": "2021-12-09 00:00:00.000",
+  "DateEnd": "2021-12-16 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 26,
+  "IdProgram": 7,
+  "Name": "Reto 3 ZzzQuil",
+  "DateStart": "2021-12-17 00:00:00.000",
+  "DateEnd": "2021-12-23 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 27,
+  "IdProgram": 7,
+  "Name": "Reto 4 ZzzQuil",
+  "DateStart": "2021-12-16 00:00:00.000",
+  "DateEnd": "2020-12-22 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 28,
+  "IdProgram": 8,
+  "Name": "Reto 1 Oral B",
+  "DateStart": "2021-11-29 00:00:00.000",
+  "DateEnd": "2021-12-06 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 29,
+  "IdProgram": 8,
+  "Name": "Reto 2 Oral B",
+  "DateStart": "2021-12-09 00:00:00.000",
+  "DateEnd": "2021-12-14 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 30,
+  "IdProgram": 8,
+  "Name": "Reto 3 Oral B",
+  "DateStart": "2021-12-15 00:00:00.000",
+  "DateEnd": "2021-12-20 23:59:59.000"
+ },
+ {
+  "IdProgramPromotion": 31,
+  "IdProgram": 8,
+  "Name": "Reto 4 Oral B",
+  "DateStart": "2000-12-21 00:00:00.000",
+  "DateEnd": "2000-12-27 23:59:59.000"
+ }
+]

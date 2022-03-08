@@ -1,0 +1,26 @@
+[
+ {
+  "IdStatus": 1,
+  "StatusName": "Pending"
+ },
+ {
+  "IdStatus": 2,
+  "StatusName": "Validated"
+ },
+ {
+  "IdStatus": 3,
+  "StatusName": "Duplicated"
+ },
+ {
+  "IdStatus": 4,
+  "StatusName": "Rejected"
+ },
+ {
+  "IdStatus": 5,
+  "StatusName": "OptOut"
+ },
+ {
+  "IdStatus": 6,
+  "StatusName": "BlackList"
+ }
+]

@@ -2,6 +2,8 @@ using Infrastructure.Data;
 using Core.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using System.Text.Json.Serialization;
+using API.Helppers;
 
 namespace API;
 
@@ -19,7 +21,11 @@ namespace API;
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddScoped<IConsumerRepository, ConsumerRepository>();
+            //services.AddScoped<IConsumerRepository, ConsumerRepository>();
+            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddAutoMapper(typeof(MappingPorfiles));
+            services.AddControllers().AddJsonOptions(x =>
+                x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
             services.AddControllers();
             services.AddDbContext<WomContext>(x =>
                x.UseSqlite(_config.GetConnectionString("DefaultConnection")));
@@ -43,6 +49,7 @@ namespace API;
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            app.UseStaticFiles();
 
             app.UseAuthorization();
 

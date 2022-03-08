@@ -1,0 +1,327 @@
+[
+ {
+  "IdProgramQuestion": 1,
+  "IdProgram": 1,
+  "Question": "¿Vives acompañado? "
+ },
+ {
+  "IdProgramQuestion": 2,
+  "IdProgram": 1,
+  "Question": "¿Tienes una familia numerosa? ¿Cuántos de tus hijos revolucionan tu casa?"
+ },
+ {
+  "IdProgramQuestion": 3,
+  "IdProgram": 1,
+  "Question": "Además de en casa, ¿tienes otro trabajo?"
+ },
+ {
+  "IdProgramQuestion": 4,
+  "IdProgram": 1,
+  "Question": "Todo es cuestión de gustos, ¿qué formato de detergente utilizas?"
+ },
+ {
+  "IdProgramQuestion": 5,
+  "IdProgram": 1,
+  "Question": "¿Qué marca de detergente usas en casa? "
+ },
+ {
+  "IdProgramQuestion": 6,
+  "IdProgram": 1,
+  "Question": "¿Utilizáis perlas de perfume para dar un aroma más duradero a vuestra colada?"
+ },
+ {
+  "IdProgramQuestion": 7,
+  "IdProgram": 1,
+  "Question": "¿Tienes Instagram?"
+ },
+ {
+  "IdProgramQuestion": 8,
+  "IdProgram": 1,
+  "Question": "¿Cuántos seguidores tienes?"
+ },
+ {
+  "IdProgramQuestion": 9,
+  "IdProgram": 1,
+  "Question": "Déjanos tu nombre de usuario para poder comprobar los datos que nos proporcionas"
+ },
+ {
+  "IdProgramQuestion": 10,
+  "IdProgram": 2,
+  "Question": "¿Con cuántos hijos vives en casa?"
+ },
+ {
+  "IdProgramQuestion": 11,
+  "IdProgram": 2,
+  "Question": "¿Qué marca de gel\/cápsulas para el lavavajillas usas en casa?"
+ },
+ {
+  "IdProgramQuestion": 12,
+  "IdProgram": 2,
+  "Question": "¿Tienes lavavajillas?"
+ },
+ {
+  "IdProgramQuestion": 13,
+  "IdProgram": 2,
+  "Question": "¿Qué marca de lavavajilla a mano usas en casa?"
+ },
+ {
+  "IdProgramQuestion": 14,
+  "IdProgram": 2,
+  "Question": "Todo es cuestión de gustos, ¿qué formato utilizas para lavar los platos?"
+ },
+ {
+  "IdProgramQuestion": 15,
+  "IdProgram": 2,
+  "Question": "¿Tienes instagram?"
+ },
+ {
+  "IdProgramQuestion": 16,
+  "IdProgram": 2,
+  "Question": "¿Cuántos seguidores tienes?"
+ },
+ {
+  "IdProgramQuestion": 17,
+  "IdProgram": 2,
+  "Question": "Déjanos tu nombre de usuario en instagram para poder comprobar los datos que nos proporciones"
+ },
+ {
+  "IdProgramQuestion": 18,
+  "IdProgram": 3,
+  "Question": "¿Con cuántos hijos vives en casa?"
+ },
+ {
+  "IdProgramQuestion": 19,
+  "IdProgram": 3,
+  "Question": "¿Limpias tú mismo\/a la casa?"
+ },
+ {
+  "IdProgramQuestion": 20,
+  "IdProgram": 3,
+  "Question": "Todo es cuestión de gustos, ¿qué formato de limpiador utilizas?"
+ },
+ {
+  "IdProgramQuestion": 21,
+  "IdProgram": 3,
+  "Question": "¿Qué marca de limpiador líquido\/spray utilizas en casa?"
+ },
+ {
+  "IdProgramQuestion": 22,
+  "IdProgram": 3,
+  "Question": "¿Tienes instagram?"
+ },
+ {
+  "IdProgramQuestion": 23,
+  "IdProgram": 3,
+  "Question": "¿Cuántos seguidores tienes?"
+ },
+ {
+  "IdProgramQuestion": 24,
+  "IdProgram": 3,
+  "Question": "Déjanos tu nombre de usuario en instagram para poder comprobar los datos que nos proporciones"
+ },
+ {
+  "IdProgramQuestion": 25,
+  "IdProgram": 4,
+  "Question": "¿Con cuántos hijos vives en casa?"
+ },
+ {
+  "IdProgramQuestion": 26,
+  "IdProgram": 4,
+  "Question": "¿Tienes lavavajillas?"
+ },
+ {
+  "IdProgramQuestion": 27,
+  "IdProgram": 4,
+  "Question": "Todo es cuestión de gustos, ¿qué formato utilizas para lavar los platos?"
+ },
+ {
+  "IdProgramQuestion": 28,
+  "IdProgram": 4,
+  "Question": "¿Qué marca de gel\/cápsulas para el lavavajillas usas en casa?"
+ },
+ {
+  "IdProgramQuestion": 29,
+  "IdProgram": 4,
+  "Question": "¿Qué marca de lavavajilla a mano usas en casa?"
+ },
+ {
+  "IdProgramQuestion": 30,
+  "IdProgram": 4,
+  "Question": "¿Tienes instagram?"
+ },
+ {
+  "IdProgramQuestion": 31,
+  "IdProgram": 4,
+  "Question": "¿Cuántos seguidores tienes?"
+ },
+ {
+  "IdProgramQuestion": 32,
+  "IdProgram": 4,
+  "Question": "Déjanos tu nombre de usuario en instagram para poder comprobar los datos que nos proporciones"
+ },
+ {
+  "IdProgramQuestion": 33,
+  "IdProgram": 5,
+  "Question": "¿Con cuántos hijos vives en casa?"
+ },
+ {
+  "IdProgramQuestion": 34,
+  "IdProgram": 5,
+  "Question": "¿Tienes lavavajillas?"
+ },
+ {
+  "IdProgramQuestion": 35,
+  "IdProgram": 5,
+  "Question": "Todo es cuestión de gustos, ¿qué formato utilizas para lavar los platos?"
+ },
+ {
+  "IdProgramQuestion": 36,
+  "IdProgram": 5,
+  "Question": "¿Qué marca de gel\/cápsulas para el lavavajillas usas en casa?"
+ },
+ {
+  "IdProgramQuestion": 37,
+  "IdProgram": 5,
+  "Question": "Si ya compras las cápsulas para lavavajillas de Fairy, ¿cuál es la colección?"
+ },
+ {
+  "IdProgramQuestion": 38,
+  "IdProgram": 5,
+  "Question": "¿Qué marca utilizas para lavar la vajilla a mano?"
+ },
+ {
+  "IdProgramQuestion": 39,
+  "IdProgram": 5,
+  "Question": "¿Tienes instagram?"
+ },
+ {
+  "IdProgramQuestion": 40,
+  "IdProgram": 5,
+  "Question": "¿Cuántos seguidores tienes?"
+ },
+ {
+  "IdProgramQuestion": 41,
+  "IdProgram": 5,
+  "Question": "Déjanos tu nombre de usuario en instagram para poder comprobar los datos que nos proporciones"
+ },
+ {
+  "IdProgramQuestion": 42,
+  "IdProgram": 7,
+  "Question": "¿Tienes problemas para conciliar el sueño?"
+ },
+ {
+  "IdProgramQuestion": 43,
+  "IdProgram": 7,
+  "Question": "¿En cuál de las siguientes etapas te encuentras?"
+ },
+ {
+  "IdProgramQuestion": 44,
+  "IdProgram": 7,
+  "Question": "¿Qué marcas de productos usas para ayudarte a conciliar el sueño?"
+ },
+ {
+  "IdProgramQuestion": 45,
+  "IdProgram": 7,
+  "Question": "¿Cuál es el factor que más tienes en cuenta a la hora de comprar?"
+ },
+ {
+  "IdProgramQuestion": 46,
+  "IdProgram": 7,
+  "Question": "¿Tienes instagram?"
+ },
+ {
+  "IdProgramQuestion": 47,
+  "IdProgram": 7,
+  "Question": "¿Cuántos seguidores tienes?"
+ },
+ {
+  "IdProgramQuestion": 48,
+  "IdProgram": 7,
+  "Question": "Déjanos tu nombre de usuario en instagram para poder comprobar los datos que nos proporciones"
+ },
+ {
+  "IdProgramQuestion": 49,
+  "IdProgram": 6,
+  "Question": "¿Qué tipo de detergente para la ropa prefieres?"
+ },
+ {
+  "IdProgramQuestion": 50,
+  "IdProgram": 6,
+  "Question": "¿Qué marca de detergente para la ropa utilizas? (puedes elegir varias)"
+ },
+ {
+  "IdProgramQuestion": 51,
+  "IdProgram": 6,
+  "Question": "¿Usas Suavizante para la ropa?"
+ },
+ {
+  "IdProgramQuestion": 52,
+  "IdProgram": 6,
+  "Question": "¿En cuál de las siguientes etapas te encuentras? (puedes elegir varias)"
+ },
+ {
+  "IdProgramQuestion": 53,
+  "IdProgram": 6,
+  "Question": "¿Tienes alguna mascota en casa?"
+ },
+ {
+  "IdProgramQuestion": 54,
+  "IdProgram": 6,
+  "Question": "¿Tienes instagram?"
+ },
+ {
+  "IdProgramQuestion": 55,
+  "IdProgram": 6,
+  "Question": "¿Cuántos seguidores tienes?"
+ },
+ {
+  "IdProgramQuestion": 56,
+  "IdProgram": 6,
+  "Question": "Déjanos tu nombre de usuario en instagram para poder comprobar los datos que nos proporciones"
+ },
+ {
+  "IdProgramQuestion": 57,
+  "IdProgram": 8,
+  "Question": "¿Qué marca de dentífrico usas?"
+ },
+ {
+  "IdProgramQuestion": 58,
+  "IdProgram": 8,
+  "Question": "¿Por qué usas tu pasta de diente actual?"
+ },
+ {
+  "IdProgramQuestion": 59,
+  "IdProgram": 8,
+  "Question": "¿Utilizas cepillo eléctrico?"
+ },
+ {
+  "IdProgramQuestion": 60,
+  "IdProgram": 8,
+  "Question": "¿Tienes problemas de encías?"
+ },
+ {
+  "IdProgramQuestion": 61,
+  "IdProgram": 8,
+  "Question": "¿Tiendes a acumular placa?"
+ },
+ {
+  "IdProgramQuestion": 62,
+  "IdProgram": 8,
+  "Question": "¿Llevas un estilo de vida saludable?"
+ },
+ {
+  "IdProgramQuestion": 63,
+  "IdProgram": 8,
+  "Question": "¿Tienes instagram?"
+ },
+ {
+  "IdProgramQuestion": 64,
+  "IdProgram": 8,
+  "Question": "¿Cuántos seguidores tienes?"
+ },
+ {
+  "IdProgramQuestion": 65,
+  "IdProgram": 8,
+  "Question": "Déjanos tu nombre de usuario en instagram para poder comprobar los datos que nos proporciones"
+ }
+]

@@ -12,10 +12,9 @@ namespace Infrastructure.Data.Config
     {
         public void Configure(EntityTypeBuilder<Consumer> builder)
         {
-            builder.Property(p => p.Id).IsRequired();
+            builder.Property(p => p.Id).IsRequired().HasColumnName("IdConsumer");
             builder.Property(p =>p.Name ).IsRequired().HasMaxLength(100);
             builder.Property(p => p.Password).IsRequired().HasMaxLength(100);
-            //builder.HasOne( b =>b.Door).WithMany().HasForeignKey(p => "el ide de la otra tabla");
         }
     }
 }

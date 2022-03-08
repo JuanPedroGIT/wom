@@ -1,0 +1,34 @@
+[
+ {
+  "IdProgram": 1,
+  "ProgramName": "Ariel"
+ },
+ {
+  "IdProgram": 2,
+  "ProgramName": "Fairy"
+ },
+ {
+  "IdProgram": 3,
+  "ProgramName": "DonLimpio"
+ },
+ {
+  "IdProgram": 4,
+  "ProgramName": "Fairy2021"
+ },
+ {
+  "IdProgram": 5,
+  "ProgramName": "Fairy3FiscalYear"
+ },
+ {
+  "IdProgram": 6,
+  "ProgramName": "Ariel2FY21-22"
+ },
+ {
+  "IdProgram": 7,
+  "ProgramName": "ZZZQuilFY21-22"
+ },
+ {
+  "IdProgram": 8,
+  "ProgramName": "OralBFY21-22"
+ }
+]

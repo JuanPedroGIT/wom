@@ -1,15 +1,14 @@
 using System;
 using System.Collections.Generic;
-// using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Core.Entities
+namespace API.Dto
 {
-    public class Consumer : BaseEntity
+    public class ConsumerDto
     {
-        // [Column("Description")]
-        //  public int IdConsumer { get; set; }
+         // [Column("Description")]
+        public int IdConsumer { get; set; }
         public string IdExternal { get; set; }
         public bool NewVSLogin { get; set; }
         public string UtmSource { get; set; }
@@ -32,7 +31,6 @@ namespace Core.Entities
         public string Door { get; set; }
         public string AddressComplement { get; set; }
         public DateTime RecordDate{ get; set; }
-
-
+        
     }
 }

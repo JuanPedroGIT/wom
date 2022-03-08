@@ -1,0 +1,146 @@
+[
+ {
+  "IdProgramGenerationPeriod": 1,
+  "IdProgram": 1,
+  "IdGeneration": 0,
+  "DateStart": "2020-09-09 00:00:00.000",
+  "DateEnd": "2020-10-04 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_ARIEL_G0",
+  "MaximumReferencedConsumers": null
+ },
+ {
+  "IdProgramGenerationPeriod": 2,
+  "IdProgram": 1,
+  "IdGeneration": 1,
+  "DateStart": "2020-12-04 00:00:00.000",
+  "DateEnd": "2020-12-10 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_ARIEL_G1",
+  "MaximumReferencedConsumers": 10
+ },
+ {
+  "IdProgramGenerationPeriod": 3,
+  "IdProgram": 2,
+  "IdGeneration": 0,
+  "DateStart": "2020-11-10 00:00:00.000",
+  "DateEnd": "2020-11-18 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_FAIRY_G0",
+  "MaximumReferencedConsumers": null
+ },
+ {
+  "IdProgramGenerationPeriod": 4,
+  "IdProgram": 2,
+  "IdGeneration": 1,
+  "DateStart": "2020-11-24 00:00:00.000",
+  "DateEnd": "2020-12-28 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_FAIRY_G1",
+  "MaximumReferencedConsumers": 10
+ },
+ {
+  "IdProgramGenerationPeriod": 5,
+  "IdProgram": 3,
+  "IdGeneration": 0,
+  "DateStart": "2021-04-16 00:00:00.000",
+  "DateEnd": "2021-05-05 23:59:00.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_DONLIMPIO_G0",
+  "MaximumReferencedConsumers": null
+ },
+ {
+  "IdProgramGenerationPeriod": 6,
+  "IdProgram": 3,
+  "IdGeneration": 1,
+  "DateStart": "2021-05-17 00:00:00.000",
+  "DateEnd": "2021-05-31 23:59:00.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_DONLIMPIO_G1",
+  "MaximumReferencedConsumers": 20
+ },
+ {
+  "IdProgramGenerationPeriod": 7,
+  "IdProgram": 4,
+  "IdGeneration": 0,
+  "DateStart": "2021-04-30 00:00:00.000",
+  "DateEnd": "2021-05-24 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_FAIRYPLATINUM_G0",
+  "MaximumReferencedConsumers": null
+ },
+ {
+  "IdProgramGenerationPeriod": 8,
+  "IdProgram": 4,
+  "IdGeneration": 1,
+  "DateStart": "2021-06-02 00:00:00.000",
+  "DateEnd": "2021-06-14 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_FAIRYPLATINUM_G1",
+  "MaximumReferencedConsumers": 20
+ },
+ {
+  "IdProgramGenerationPeriod": 9,
+  "IdProgram": 5,
+  "IdGeneration": 0,
+  "DateStart": "2021-09-09 00:00:00.000",
+  "DateEnd": "2021-09-29 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_FAIRY3_G0",
+  "MaximumReferencedConsumers": null
+ },
+ {
+  "IdProgramGenerationPeriod": 10,
+  "IdProgram": 5,
+  "IdGeneration": 1,
+  "DateStart": "2021-10-08 00:00:00.000",
+  "DateEnd": "2021-10-24 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_FAIRY3_G1",
+  "MaximumReferencedConsumers": 20
+ },
+ {
+  "IdProgramGenerationPeriod": 11,
+  "IdProgram": 6,
+  "IdGeneration": 0,
+  "DateStart": "2021-10-08 00:00:00.000",
+  "DateEnd": "2021-10-29 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_ARIEL2_G0",
+  "MaximumReferencedConsumers": null
+ },
+ {
+  "IdProgramGenerationPeriod": 12,
+  "IdProgram": 6,
+  "IdGeneration": 1,
+  "DateStart": "2021-11-08 00:00:00.000",
+  "DateEnd": "2021-11-25 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_ARIEL2_G1",
+  "MaximumReferencedConsumers": 20
+ },
+ {
+  "IdProgramGenerationPeriod": 13,
+  "IdProgram": 7,
+  "IdGeneration": 0,
+  "DateStart": "2021-10-13 00:00:00.000",
+  "DateEnd": "2021-11-12 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_ZZZQUIL_G0",
+  "MaximumReferencedConsumers": null
+ },
+ {
+  "IdProgramGenerationPeriod": 14,
+  "IdProgram": 7,
+  "IdGeneration": 1,
+  "DateStart": "2021-11-12 00:00:00.000",
+  "DateEnd": "2021-12-02 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_ZZZQUIL_G1",
+  "MaximumReferencedConsumers": 20
+ },
+ {
+  "IdProgramGenerationPeriod": 15,
+  "IdProgram": 8,
+  "IdGeneration": 0,
+  "DateStart": "2021-10-26 00:00:00.000",
+  "DateEnd": "2021-11-10 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_ORALB_G0",
+  "MaximumReferencedConsumers": null
+ },
+ {
+  "IdProgramGenerationPeriod": 16,
+  "IdProgram": 8,
+  "IdGeneration": 1,
+  "DateStart": "2021-11-19 00:00:00.000",
+  "DateEnd": "2021-12-05 23:59:59.000",
+  "TrafficSource": "DC-290-EU-SP-OtherReg-WOM_ORALB_G1",
+  "MaximumReferencedConsumers": 20
+ }
+]
