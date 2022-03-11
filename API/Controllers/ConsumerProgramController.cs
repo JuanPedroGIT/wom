@@ -11,9 +11,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("Api/[Controller]")]
-    public class ConsumerProgramController : ControllerBase
+
+    public class ConsumerProgramController : BaseController
     {
         private readonly IGenericRepository<ConsumerProgram> _genericRepo;
         private readonly IMapper _mapper;

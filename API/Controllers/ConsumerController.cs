@@ -10,12 +10,12 @@ using Microsoft.EntityFrameworkCore;
 using Core.Specifications;
 using AutoMapper;
 using API.Dto;
+using API.Errors;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("Api/[Controller]")]
-    public class ConsumerController: ControllerBase
+
+    public class ConsumerController: BaseController
     {
       
         private readonly IGenericRepository<Consumer> _consumerRepo;
@@ -40,10 +40,15 @@ namespace API.Controllers
         }
 
         [HttpGet("{IdConsumer}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status404NotFound)]
         public async Task<ActionResult<Consumer>> GetConsumer(int IdConsumer)
         {
             var spec = new ConsumerSpecification(IdConsumer);
             var consumer = await _consumerRepo.GetEntityWhithSpec(spec);
+
+            if(consumer == null ) return NotFound(new ApiResponse(404));
+            
             return Ok(_mapper.Map<Consumer, ConsumerDto>(consumer));
         }
     }

@@ -13,9 +13,8 @@ using Programm =Core.Entities.Program;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("Api/[Controller]")]
-    public class ProgramController : ControllerBase
+
+    public class ProgramController : BaseController
     {
         private readonly IGenericRepository<Programm> _programRepo;
         private readonly IMapper _mapper;

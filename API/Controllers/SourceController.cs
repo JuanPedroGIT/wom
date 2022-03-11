@@ -11,9 +11,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("Api/[Controller]")]
-    public class SourceController : ControllerBase
+
+    public class SourceController : BaseController
     {
         private readonly IGenericRepository<Source> _sourceRepo;
         private readonly IMapper _mapper;

@@ -9,9 +9,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("Api/[Controller]")]
-    public class GenerationController : ControllerBase
+
+    public class GenerationController : BaseController
     {
         private readonly IGenericRepository<Generation> _genericRepo;
         public GenerationController(IGenericRepository<Generation> genericRepo)
