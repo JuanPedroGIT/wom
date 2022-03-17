@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using API.Dto;
+using API.Helppers;
 using AutoMapper;
 using Core.Entities;
 using Core.Interfaces;
@@ -29,11 +30,17 @@ namespace API.Controllers
 
 
         [HttpGet]
-        public async Task<ActionResult<List<ConsumerProgramDto>>> GetConsumerPrograms()
+        public async Task<ActionResult<Pagination<ConsumerProgramDto>>> GetConsumerPrograms(
+            [FromQuery] ConsumerProgramSpecParam cpParams)
         {
-            var spec = new ConsumerProgramSpecification();
+            var spec = new ConsumerProgramSpecification(cpParams);
+           
+            var countSpec = new ConsumerProgramSpecification(cpParams, true);
             var consumerPrograms = await _genericRepo.ListAsync(spec);
-            return Ok( consumerPrograms.Select( c =>  _mapper.Map<ConsumerProgram, ConsumerProgramDto>(c)));
+            var count = await _genericRepo.CountAsync(countSpec);
+
+            var data = _mapper.Map<IReadOnlyList<ConsumerProgram>, IReadOnlyList<ConsumerProgramDto>>(consumerPrograms);
+            return Ok( new Pagination<ConsumerProgramDto>(cpParams.PageIndex, cpParams.PageSize, count, data));
         }
 
         [HttpGet("{IdConsumerProgram}")]

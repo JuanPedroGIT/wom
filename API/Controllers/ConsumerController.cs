@@ -31,10 +31,10 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IReadOnlyList<ConsumerDto>>> GetConsumers()
+        public async Task<ActionResult<IReadOnlyList<ConsumerDto>>> GetConsumers(string sort)
         {
 
-            var spec = new ConsumerSpecification();
+            var spec = new ConsumerSpecification(sort);
             var consumers = await _consumerRepo.ListAsync(spec);
             return Ok(_mapper.Map<IReadOnlyList<Consumer>,IReadOnlyList<ConsumerDto>>(consumers));
         }

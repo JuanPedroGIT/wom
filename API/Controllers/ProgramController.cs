@@ -28,10 +28,10 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<List<ProgramDto>>> GetPrograms()
+        public async Task<ActionResult<List<ProgramDto>>> GetPrograms(string sort)
         {
 
-            var spec = new ProgramSpecification();
+            var spec = new ProgramSpecification(sort);
             var programs = await _programRepo.ListAsync(spec);
             return Ok(programs.Select(p => _mapper.Map<Programm, ProgramDto>(p)));
         }
