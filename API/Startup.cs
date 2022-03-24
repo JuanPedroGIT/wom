@@ -33,6 +33,11 @@ namespace API;
             services.AddDbContext<WomContext>(x =>
                x.UseSqlite(_config.GetConnectionString("DefaultConnection")));
 
+            // services.AddSingleton<ConnectionMultiplexer>(c => {
+            //     var configutration = ConfigurationOptions.Parse(_config.GetConnectionString("Redis"), true);
+            //     return ConnectionMultiplexer.Connect(configutration);
+            // });
+
             services.AddApplicationServices();
 
             services.AddSwaggerDocumentation();
